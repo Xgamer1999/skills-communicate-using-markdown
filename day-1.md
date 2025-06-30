@@ -25,4 +25,4 @@
 3. third point
 
 ## Task List
-[ ] Complete Github Docs Tasks
+- [ ] Complete Github Docs Tasks
